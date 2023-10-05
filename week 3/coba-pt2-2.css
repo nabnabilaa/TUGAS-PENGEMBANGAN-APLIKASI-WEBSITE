@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: rgb(3, 52, 95);
+}
+h2{
+    text-align: left;
+    color: rgb(46, 90, 152);
+}
+h3{
+    text-align: right;
+    color: rgb(67, 106, 142);
+}
+p{
+    text-align: center;
+    color: rgb(67, 86, 101);
+}

@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(223, 227, 204);
+    background-image: url(3ba46bdf8a572e3cb44f9286f82bf9bb.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(8, 23, 190);
+    text-indent: 30px;
+}
+h3{
+    text-align: center;
+    color: rgba(19, 111, 249, 0.514);
+}
+p{
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    letter-spacing: normal;
+}
