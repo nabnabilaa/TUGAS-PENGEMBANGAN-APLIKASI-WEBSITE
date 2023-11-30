@@ -1,0 +1,45 @@
+
+.profile{
+    display: flex;
+    align-items: center;
+  }
+.profile-img{
+    width: 180px;
+    border-radius: 80%;
+    margin-right: 20px;
+    left: 50%;
+    top: 50%;
+    border-radius: 50%;
+    border: px solid var(--gray)
+}
+.p4{
+	font-size: 30px;
+	font-weight: 600;
+}
+.p5{
+	font-size: 17px;
+	color: var(--lightgray);
+}
+.sm{
+    letter-spacing: 1ch;
+}
+.dashed-line {
+    border-style: dashed;
+    color: rgb(70, 69, 69);
+  }
+.p6{
+    font-size: 15px;
+    text-align: justify;
+}
+
+.container {
+    display: grid; /* Mengaktifkan CSS Grid */
+    grid-template-columns: repeat(4, 1fr); /* Membagi wadah menjadi 4 kolom dengan lebar yang sama */
+    gap: 10px; /* Spasi antar elemen horizontal */
+  }
+  
+  .text {
+    border: 1px solid #ccc; /* Untuk memberikan border agar elemen terlihat */
+    padding: 10px; /* Padding untuk ruang di dalam elemen */
+  }
+  
